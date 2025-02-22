@@ -1,6 +1,6 @@
 <!-- Credit to https://github.com/tthn0/tthn0 for README idea -->
 
-<h3 align="center">Hi there, I’m 42Willow <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"></h3>
+<h3 align="center">hi ^-^ 🐦</h3>
 
 <!--
 <div align="center">
@@ -25,17 +25,17 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/42willow/42willow/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!--
-## 📈 Stats
+### i like code 🍃
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=42willow&show_icons=true&rank_icon=github&include_all_commits=true&show=discussions_starte&count_private=true&hide_border=true&bg_color=24273a&text_color=cad3f5&title_color=f5bde6&icon_color=8aadf4&card_width=495" />
-</div>
-
-<div>
+<div float="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=42willow&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=24273a&text_color=cad3f5&title_color=f5bde6&icon_color=8aadf4&card_width=495" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=42willow&langs_count=8&layout=compact&hide_border=true&bg_color=24273a&text_color=cad3f5&title_color=f5bde6&icon_color=c6a0f6&card_width=495"/>
 </div>
 
+
+<sub>have a nice day :)</sub>
+
+<!--
 ## 🎶 Vibing to
 
 <a href="https://spotify-readme-42willows.vercel.app/api/play">
@@ -43,8 +43,8 @@
 </a>
 
 <a href="https://github.com/42willow/Spotify-Readme">Source Repo</a>
--->
 
+-->
 <!--
 <div>
  <img src="http://github-readme-streak-stats.herokuapp.com?user=42willow&theme=dark&hide_border=true&background=24273a&ring=f5bde6&fire=ed8796&currStreakLabel=cad3f5&currStreakNum=cad3f5&sideLabels=cad3f5&sideNums=cad3f5&card_width=495">
