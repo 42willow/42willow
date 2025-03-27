@@ -35,6 +35,8 @@
 
 <sub>have a nice day :)</sub>
 
+<sub>P.S. the top most languages card is rather innaccurate. I primarily use svelte, typescript, and tailwind.
+
 <!--
 ## 🎶 Vibing to
 
