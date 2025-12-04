@@ -29,7 +29,7 @@
 
 <div float="left">
   <img width="400px" src="https://github-readme-stats-willow.vercel.app/api?username=42willow&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=24273a&text_color=cad3f5&title_color=f5bde6&icon_color=8aadf4&card_width=495" />
-  <img width="400px" src="https://github-readme-stats-willow.vercel.app/api/top-langs/?username=42willow&langs_count=8&layout=compact&hide_border=true&bg_color=24273a&text_color=cad3f5&title_color=f5bde6&icon_color=c6a0f6&card_width=495"/>
+  <img width="400px" src="https://github-readme-stats-willow.vercel.app/api/top-langs/?username=42willow&langs_count=8&layout=compact&hide_border=true&bg_color=24273a&text_color=cad3f5&title_color=f5bde6&icon_color=c6a0f6&card_width=495&size_weight=0&count_weight=1"/>
 </div>
 
 
